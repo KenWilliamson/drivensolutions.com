@@ -116,18 +116,18 @@ nav ul li ul li a {
         
     }
     .logo{
-        /*font-size: 26pt;
+        font-size: 14pt;
         margin: 1% 0 0 12%;
-        width: 5%;
-        text-shadow: 1px 2px lightyellow;
-        background: red;*/
-        display: none;
+        width: 10%;
+        text-shadow: 1px 1px black;
+                
     }
     .logo-img{
         font-size: 26pt;
         margin: 1% 0 0 12%;
         width: 5%;
         text-shadow: 1px 2px lightyellow;
+        display: none;
         /*background: red;*/
     }
     .logo-img img{
@@ -155,12 +155,11 @@ nav ul li ul li a {
         margin: 0 0 0 20%;
     }
     .logo{
-        /*font-size: 26pt;
+        font-size: 16pt;
         margin: 1% 0 0 12%;
-        width: 6%;
-        text-shadow: 1px 2px lightyellow;
-        background: blue;*/
-        display: none;
+        width: 15%;
+        text-shadow: 1px 2px black;        
+        
     }
     .logo-img{
         font-size: 26pt;
@@ -168,6 +167,7 @@ nav ul li ul li a {
         width: 6%;
         text-shadow: 1px 2px lightyellow;
         /*background: blue;*/
+        display: none;
     }
     .logo-img img{
         max-width: 100%;
@@ -195,7 +195,11 @@ nav ul li ul li a {
         
     }
     .logo{
-        display: none;
+        font-size: 14pt;
+        margin: 1% 0 0 12%;
+        width: 18%;
+        text-shadow: 1px 2px black;
+        
     }
     .logo-img{
         font-size: 22pt;
@@ -203,13 +207,14 @@ nav ul li ul li a {
         width: 7%;
         text-shadow: 1px 2px lightyellow;
         /*background: purple;*/
+        display: none;
     }
     .logo-img img{
         max-width: 100%;
     }
     nav ul li a {
         width:20%;
-        font-size: 14pt;
+        font-size: 12pt;
     }
 }
 
@@ -240,6 +245,7 @@ nav ul li ul li a {
         text-shadow: 1px 1px black;
         display: block;
         width: 30%;
+        
     }
     .logo-img{
         display: none;
@@ -263,15 +269,11 @@ nav ul li ul li a {
     .top-menu-menu{
         padding: 0 0 0 0; 
         width: 100%;
-        margin: 0 0 0 0%;
+        margin: 0 0 0 0%;        
     }
-    nav ul li a {
-        font-size: 10px;
-        width:60px;
-        padding: 7px 10px 3px 10px;
-    }
+    
     .logo{
-        font-size: 14pt;
+        font-size: 12pt;
         margin: 1% 0 0 6%;
         text-shadow: 1px 1px black;
         display: block;
@@ -281,7 +283,8 @@ nav ul li ul li a {
         display: none;
     }
     nav ul li a {
-        width:10%;
+        width:20%;
         font-size: 8pt;
+        padding: 7px 8px 3px 8px;       
     }
 }
